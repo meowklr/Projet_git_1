@@ -5,4 +5,4 @@ var/*.log
 var/*.json
 *.obj
 var/*.xml
-
+config.ini
