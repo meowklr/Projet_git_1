@@ -3,3 +3,4 @@ var/test.log
 var/*.env
 var/*.log
 var/*.json
+*.obj
