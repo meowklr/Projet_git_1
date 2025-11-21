@@ -3,6 +3,7 @@ var/test.log
 var/*.env
 var/*.log
 var/*.jsonzfgfqZEZQFGF
+*.json
 *.obj
 var/*.xml
 config.ini
