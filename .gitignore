@@ -2,7 +2,7 @@ var/test.txt
 var/test.log
 var/*.env
 var/*.log
-var/*.json
+*.json
 *.obj
 var/*.xml
 config.ini
