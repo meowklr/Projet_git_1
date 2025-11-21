@@ -4,3 +4,5 @@ var/*.env
 var/*.log
 var/*.json
 *.obj
+var/*.xml
+
